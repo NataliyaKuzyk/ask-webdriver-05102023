@@ -24,6 +24,109 @@ Feature: Smoke steps
     Then element with xpath "//div[@id='web-results']" should contain text "Tomatoes"
     #And I wait for 5 sec
 
+    #Scenario for https://duckduckgo.com
+  @predefined3
+  Scenario: Search Engine for https://duckduckgo.com
+    Given I open url "https://duckduckgo.com"
+    Then I should see page title contains "DuckDuckGo"
+    Then element with xpath "//input[@id='searchbox_input']" should be present
+    Then I type "Tomato" into element with xpath "//input[@id='searchbox_input']"
+    And I click on element with xpath "//button[@type='submit']"
+    Then I wait for element with xpath "//div[@id='react-layout']" to be present
+    Then element with xpath "//div[@id='react-layout']" should contain text "Tomato"
+    #And I wait for 3 sec
+
+    #Scenario for  https://swisscows.com
+  @predefined4
+  Scenario: Search Engine for  https://swisscows.com
+    Given I open url " https://swisscows.com"
+    Then I should see page title contains "Swisscows"
+    Then element with xpath "//input[@type='search']" should be present
+    Then I type "Tomato" into element with xpath "//input[@type='search']"
+    And I click on element with xpath "//button[@type='submit']"
+    Then I wait for element with xpath "//div[@class='web-results']" to be present
+    Then element with xpath "//div[@class='web-results']" should contain text "tomato"
+    #And I wait for 3 sec
+
+    #Scenario for https://www.searchencrypt.com
+  @predefined5
+  Scenario: Search Engine for https://www.searchencrypt.com
+    Given I open url "https://www.searchencrypt.com"
+    Then I should see page title contains "Search Encrypt"
+    Then element with xpath "//input[@name='q']" should be present
+    Then I type "Tomato" into element with xpath "//input[@name='q']"
+    And I click on element with xpath "//button[@type='submit']"
+    Then I wait for element with xpath "//section[@class='serp__results container']" to be present
+    Then element with xpath "//section[@class='serp__results container']" should contain text "tomato"
+    #And I wait for 3 sec
+
+    #Scenario for  https://www.startpage.com
+  @predefined6
+  Scenario: Search Engine for https://www.startpage.com
+    Given I open url " https://www.startpage.com"
+    Then I should see page title contains "Startpage"
+    Then element with xpath "//input[@id='q']" should be present
+    Then I type "Tomato" into element with xpath "//input[@id='q']"
+    And I click on element with xpath "//button[@id='search-btn']"
+    Then I wait for element with xpath "//div[@class='layout']" to be present
+    Then element with xpath "//div[@class='layout']" should contain text "tomato"
+    #And I wait for 3 sec
+
+    #Scenario for https://www.ecosia.org
+  @predefined7
+  Scenario: Search Engine for https://www.ecosia.org
+    Given I open url "https://www.ecosia.org"
+    Then I should see page title contains "Ecosia"
+    Then element with xpath "//input[@name='q']" should be present
+    Then I type "Tomato" into element with xpath "//input[@name='q']"
+    And I click on element with xpath "//button[@type='submit']"
+    Then I wait for element with xpath "//main[@id='main']" to be present
+    Then element with xpath "//main[@id='main']" should contain text "tomato"
+    #And I wait for 3 sec
+
+    #Scenario for https://www.wiki.com/
+  @predefined8
+  Scenario: Search Engine for https://www.wiki.com/
+    Given I open url "https://www.wiki.com/"
+    Then I should see page title contains "Wiki.com"
+    Then element with xpath "//input[@name='q']" should be present
+    Then I type "Tomato" into element with xpath "//input[@name='q']"
+    And I click on element with xpath "//input[@name='btnG']"
+    Then element with xpath "//body[@id='body']" should be present
+    And I click on element with xpath "//button[@id='proceed-button']"
+    Then I wait for element with xpath "//div[@id='results_009420061493499222400:e8sof1xaq-u']" to be present
+    Then element with xpath "" should contain text "tomato"
+    #And I wait for 3 sec
+    #//body/div[@id='results_009420061493499222400:e8sof1xaq-u']/iframe[1]
+  
+  #Scenario for https://www.givewater.com/
+  @predefined9
+  Scenario: Search Engine for https://www.givewater.com/
+    Given I open url "https://www.givewater.com/"
+    Then I should see page title contains "giveWater Search Engine"
+    Then element with xpath "//input[@id='site-search']" should be present
+    And I wait for 5 sec
+    Then I type "Tomato" into element with xpath "//input[@id='site-search']"
+    And I click on element with xpath "//button[@id='button-addon2']"
+    Then I wait for element with xpath "//div[@class='layout__mainline']" to be present
+    Then element with xpath "//div[@class='layout__mainline']" should contain text "tomato"
+    #And I wait for 3 sec
+
+  #Scenario for https://ekoru.org/
+  @predefined10
+  Scenario: Search Engine for https://ekoru.org/
+    Given I open url "https://ekoru.org/"
+    Then I should see page title contains "Ekoru"
+    Then element with xpath "//input[@id='fld_q']" should be present
+    Then I type "Tomato" into element with xpath "//input[@id='fld_q']"
+    And I click on element with xpath "//div[@id='btn_search']"
+    Then I wait for element with xpath "//div[@id='div_results']" to be present
+    Then element with xpath "//div[@id='div_results']" should contain text "tomato"
+    And I wait for 3 sec
+    #java.lang.AssertionError:
+
+
+
 
 
   

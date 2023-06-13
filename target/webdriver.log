@@ -8,3 +8,223 @@ INFO 12:23:08:687 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using 
 INFO 12:23:08:712 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
 INFO 12:24:07:031 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
 INFO 12:24:07:057 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 14:27:39:025 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 14:27:39:045 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 14:33:33:978 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 14:33:34:003 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 14:34:23:272 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 14:34:23:296 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 14:39:41:528 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 14:39:41:554 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 14:45:04:696 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 14:45:04:718 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 14:51:00:638 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 14:51:00:665 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:26:43:752 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:26:43:777 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:26:53:624 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:26:53:629 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:27:03:098 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:27:03:102 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:27:12:336 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:27:12:340 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:27:21:565 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:27:21:569 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:27:30:858 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:27:30:863 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:27:40:137 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:27:40:141 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:27:49:361 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:27:49:365 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:27:53:736 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:27:53:740 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:27:58:243 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:27:58:247 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 15:53:21:811 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 15:53:21:836 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:44:51:229 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:44:51:253 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:51:16:486 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:51:16:512 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:54:41:483 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:54:41:504 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:57:59:142 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:57:59:163 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:58:01:653 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:58:01:658 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:58:03:724 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:58:03:728 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:58:05:748 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:58:05:753 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:58:07:776 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:58:07:780 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:58:09:771 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:58:09:774 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:58:11:766 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:58:11:769 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:58:13:769 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:58:13:776 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:58:15:777 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:58:15:780 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 18:58:17:774 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 18:58:17:779 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:01:27:334 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:01:27:358 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:01:48:552 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:01:48:575 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:01:58:012 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:01:58:016 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:02:03:869 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:02:03:873 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:02:09:682 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:02:09:686 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:02:15:660 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:02:15:664 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:02:21:996 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:02:22:000 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:02:28:274 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:02:28:277 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:02:34:672 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:02:34:676 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:02:39:002 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:02:39:006 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:02:43:280 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:02:43:283 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:30:49:212 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:30:49:232 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:40:29:788 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:40:29:808 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:43:40:017 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:43:40:038 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:44:02:743 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:44:02:764 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:45:58:234 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:45:58:256 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 19:56:47:041 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 19:56:47:061 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 20:10:52:598 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 20:10:52:620 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 20:23:49:228 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 20:23:49:250 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 20:31:10:842 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 20:31:10:866 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 20:40:55:651 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 20:40:55:673 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 20:42:45:505 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 20:42:45:525 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 20:47:20:516 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 20:47:20:537 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 20:49:29:918 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 20:49:29:939 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 20:50:46:136 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 20:50:46:159 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 20:57:21:442 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 20:57:21:465 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 21:04:30:486 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 21:04:30:506 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 21:05:37:909 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 21:05:37:929 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 21:06:14:236 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 21:06:14:256 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 21:11:46:533 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 21:11:46:555 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 21:14:45:894 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 21:14:45:914 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 21:15:28:740 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 21:15:28:771 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 21:18:15:373 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 21:18:15:394 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 22:52:42:968 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 22:52:42:990 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 22:59:28:636 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 22:59:28:656 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 22:59:47:238 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 22:59:47:258 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:00:41:650 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:00:41:670 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:06:29:062 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:06:29:083 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:17:49:832 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:17:49:852 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:19:33:350 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:19:33:371 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:20:31:901 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:20:31:926 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:24:38:574 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:24:38:594 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:31:56:410 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:31:56:432 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:48:16:123 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:48:16:143 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:48:44:717 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:48:44:737 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:49:32:783 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:49:32:805 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:51:16:432 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:51:16:453 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:56:04:615 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:56:04:636 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 23:56:50:716 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 23:56:50:736 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:00:29:869 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:00:29:889 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:05:24:177 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:05:24:199 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:05:57:152 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:05:57:172 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:14:06:851 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:14:06:872 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:17:48:504 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:17:48:525 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:20:12:731 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:20:12:753 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:23:05:680 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:23:05:701 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:25:54:867 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:25:54:889 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:29:48:837 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:29:48:862 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:33:56:671 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:33:56:691 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:34:32:071 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:34:32:091 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:35:06:548 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:35:06:576 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:35:52:894 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:35:52:915 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:37:24:182 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:37:24:203 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:44:22:111 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:44:22:133 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:45:49:981 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:45:50:003 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:46:42:615 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:46:42:635 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:47:14:123 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:47:14:143 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:49:01:523 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:49:01:543 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:54:16:579 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:54:16:600 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:56:27:419 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:56:27:437 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:58:07:058 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:58:07:078 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 00:58:30:809 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 00:58:30:828 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 01:00:47:760 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 01:00:47:782 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 01:02:02:897 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 01:02:02:917 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 01:03:09:370 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 01:03:09:394 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 13:19:50:677 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 13:19:50:706 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 13:47:43:608 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 13:47:43:634 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 13:48:06:179 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 13:48:06:202 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 13:51:05:814 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 13:51:05:838 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
+INFO 14:38:16:172 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+INFO 14:38:16:200 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\pkuzy\.m2\repository\webdriver\chromedriver\win32\114.0.5735.90\chromedriver.exe
