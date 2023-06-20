@@ -92,22 +92,28 @@ Feature: Smoke steps
     Then element with xpath "//input[@name='q']" should be present
     Then I type "Tomato" into element with xpath "//input[@name='q']"
     And I click on element with xpath "//input[@name='btnG']"
+    And I wait for 2 sec
+    Then I should see page title contains "Form is not secure"
     Then element with xpath "//body[@id='body']" should be present
     And I click on element with xpath "//button[@id='proceed-button']"
-    Then I wait for element with xpath "//div[@id='results_009420061493499222400:e8sof1xaq-u']" to be present
-    Then element with xpath "" should contain text "tomato"
-    #And I wait for 3 sec
-    #//body/div[@id='results_009420061493499222400:e8sof1xaq-u']/iframe[1]
+    And I wait for 2 sec
+    Then I should see page title contains "Wiki.com"
+    Then I switch to iframe with xpath "//iframe[@name='googleSearchFrame']"
+    Then element with xpath "//*[contains(text(), 'tomato')]" should contain text "tomato"
+    And I wait for 3 sec
   
   #Scenario for https://www.givewater.com/
   @predefined9
   Scenario: Search Engine for https://www.givewater.com/
     Given I open url "https://www.givewater.com/"
     Then I should see page title contains "giveWater Search Engine"
+    Then element with xpath "//div[@class='pum-content popmake-content']" should be present
+    Then I click on element with xpath "//button[@aria-label='Close']"
     Then element with xpath "//input[@id='site-search']" should be present
-    And I wait for 5 sec
     Then I type "Tomato" into element with xpath "//input[@id='site-search']"
     And I click on element with xpath "//button[@id='button-addon2']"
+    And I wait for 2 sec
+    Then I should see page title contains "GiveWater Web Search"
     Then I wait for element with xpath "//div[@class='layout__mainline']" to be present
     Then element with xpath "//div[@class='layout__mainline']" should contain text "tomato"
     #And I wait for 3 sec
@@ -118,12 +124,13 @@ Feature: Smoke steps
     Given I open url "https://ekoru.org/"
     Then I should see page title contains "Ekoru"
     Then element with xpath "//input[@id='fld_q']" should be present
-    Then I type "Tomato" into element with xpath "//input[@id='fld_q']"
+    Then I type "Cucumber" into element with xpath "//input[@id='fld_q']"
     And I click on element with xpath "//div[@id='btn_search']"
     Then I wait for element with xpath "//div[@id='div_results']" to be present
-    Then element with xpath "//div[@id='div_results']" should contain text "tomato"
     And I wait for 3 sec
-    #java.lang.AssertionError:
+    Then element with xpath "//div[@id='serp_organic']/div[1]/div[@class='serp-result-web-text']" should contain text "cucumber"
+
+
 
 
 
